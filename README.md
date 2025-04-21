@@ -42,8 +42,8 @@ This API implementation includes:
 ## Installation
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/ErzaKaneki/Portfolio/tree/main/RESTful_API
-cd restful_api
+git clone https://github.com/ErzaKaneki/Portfolio/tree/main/Secure_RESTful_API
+cd secure_restful_api
 ```
 ### 2. Install dependencies:
 ```bash
